@@ -3,26 +3,6 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {"key":"点我换源","name":"微信公众号【萝卜软件栈】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
-{
-"key": "豆瓣",
-"name": "豆瓣推荐",
-"type": 3,
-"api": "csp_DouDou",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 0
-},
-{
-"key": "荐片",
-"name": "荐片P2P",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"changeable": 1,
-"playerType": "1",
-"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-},
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"立播","name":"立播┃秒播","type": 3,"api": "csp_LibvioGuard","timeout":10,"searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"奶酪","name":"奶酪┃秒播","type":3,"api":"csp_T4Guard","searchable":1,"quickSearch":1,"changeable":0,"ext":"rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="},
@@ -77,34 +57,6 @@
 {"name":"虎牙一起看","type":0,"url":"https://sub.ottiptv.cc/huyayqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
 {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"},
-{
-    "name": "新版影视仓",
-    "type": 0,
-    "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-    "playerType": 1,
-    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-    "logo": "https://live.fanmingming.com/tv/{name}.png"
-},
-{
-    "name": "IPV4",
-    "type": 0,
-    "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
-    "playerType": 1,
-    "logo": "https://live.fanmingming.com/tv/{name}.png"
-},
-{
-    "name": "IPV6①",
-    "type": 0,
-    "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-    "playerType": 1
-},
-{
-    "name": "IPV6②",
-    "type": 0,
-    "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
-    "playerType": 1,
-    "logo": "https://live.fanmingming.com/tv/{name}.png"
-}
+{"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.5.0.0"}
 ]
 }
